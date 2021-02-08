@@ -1,0 +1,7 @@
+name: MaintenanceSystem
+version: 1.0
+api: 3.0.0
+main: MS\MS
+author: r3pt1s
+load: STARTUP
+description: MaintenanceSystem for PocketMine-MP

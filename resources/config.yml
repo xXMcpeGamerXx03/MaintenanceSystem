@@ -1,0 +1,17 @@
+Maintenance-On-msg: "Du hast die Wartungen aktiviert!"
+Maintenance-Off-msg: "Du hast die Wartungen deaktiviert!"
+Maintenance-AddedPlayer-msg: "Du hast den Spieler {player} zum WartungsModus hinzugefügt!"
+Maintenance-RemovedPlayer-msg: "Du hast den Spieler {player} vom WartungsModus entfernt!"
+Maintenance-Join-bypass-permission: "maintenance.join.bypass"
+Maintenance-Command-permission: "maintenance.command"
+Maintenance-kick-reason: "Das Netzwerk ist in Wartungen!"
+No-Perms-message: "Dafür hast du keine Rechte!"
+Player-Already-On-List: "Der Spieler {player} ist bereits auf der Liste!"
+Player-Not-On-List: "Der Spieler {player} ist nicht auf der Liste!"
+List-message: "Alle Spieler die auf der Liste sind: "
+No-Arguments-message: "/maintenance toggle\n/maintenance add <player>\n/maintenance remove <player>\n/maintenance list"
+
+MOTD: "DeinServer.DE | §aOnline"
+MaintenanceMOTD: "DeinServer.DE | §4Wartungen"
+
+Maintenance: false
